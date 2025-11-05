@@ -1,3 +1,4 @@
-hello, this is sadaf imteyaz, 
+hello, this is sadaf imteyaz!
 i.. am writing a program for counting the words which is palindrome
+
 like mom  dad  madam  yay  hah  level etc
